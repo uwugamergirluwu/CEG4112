@@ -1,0 +1,5 @@
+Flask==2.3.3
+waitress==2.1.2
+torch==2.6.0 #--extra-index-url https://download.pytorch.org/whl/cpu
+transformers==4.38.2
+numpy<2.0
